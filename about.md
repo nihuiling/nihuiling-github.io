@@ -12,7 +12,9 @@ title: 关于我
 <p>
 
 <h3> 自我介绍了这么多，怎么可以没有我的照片呢?下面我来发几张照片，你们猜猜哪张是我？ </h3>  
-<img src="/images/1.jpg"   width="260" height="440" /><img src="/images/2.jpg"   width="260" height="440" /><img src="/images/3.jpg"   width="260" height="440" />
+<img src="/images/1.jpg"   width="260" height="440" align="lefet"/>
+<img src="/images/2.jpg"   width="260" height="440" align="center"/>
+<img src="/images/3.jpg"   width="260" height="440" align="right"/>
 <p>
 
 是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
