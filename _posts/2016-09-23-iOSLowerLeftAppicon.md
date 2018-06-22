@@ -29,5 +29,5 @@ date: 2016-11-20
 
 
 ###精美剧照
-<img src="/images/10.jpg"  width="440" height="360"  align="left"/>
-<img src="/images/11.jpg"  width="440" height="360"  align="right"/>
+<img src="/images/13.jpg"  width="660" height="300" />
+<img src="/images/12.jpg"  width="440" height="360"  align="center"/>
