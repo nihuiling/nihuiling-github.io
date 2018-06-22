@@ -67,7 +67,9 @@ tag: iOS
 　　 插曲 
 
 ### 精美剧照
-  
+  <img src="/images/8.jpg"  width="440" height="360"  align="left"/>
+<img src="/images/9.jpg"  width="440" height="360"  align="right"/>
+
 
 
 
